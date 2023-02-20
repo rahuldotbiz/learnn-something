@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Satoshi';
+  font-style: normal;
+  font-display: swap;
+  src: url('/fonts/satoshi.woff') format('woff');
+}
+
+@layer base {
+    @import "/fonts/satoshi.css";
+}

@@ -1,0 +1,212 @@
+{
+  "free-web3-resources": {
+    "type": "page",
+    "baseId": "appexuuUztkzX8vsp",
+    "tableName": "Table 1",
+    "HeroTitle": "Free Web3 Resources",
+    "HeroSubtitle": "Find below a curated list of free resources to help you learn about Web3 and build on it."
+  },
+  "design": {
+    "type": "page",
+    "baseId": "appCmShFwBgtB5CEI",
+    "tableName": "Resources",
+    "HeroTitle": "Design",
+    "HeroSubtitle": "Find below a curated list of free design resources to help you build your next project."
+  },
+  "subreddits": {
+    "type": "page",
+    "baseId": "appa9c4NBDIK9fif5",
+    "tableName": "Resources",
+    "HeroTitle": "Subreddits",
+    "HeroSubtitle": "Find below a curated list of subreddits to help you browse reddit."
+  },
+  "developer": {
+    "type": "list",
+    "baseId": "appCMETWnja9Y31xZ",
+    "tableName": "Table 1",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-internet": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn the Internet for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-vcs": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn Git for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-html": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn HTML for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-css": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn CSS for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-javascript": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn JS for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-npm": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn Package Manager",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-react": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn React for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-angular": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn Angular for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-vue": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn VueJS for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-tailwind": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn TailwindCSS for Free",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-gatsby": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn GatsbyJS",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-nextjs": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn NextJS",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-eleventy": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn eleventy",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-graphql": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn GraphQL",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-react-native": {
+    "type": "page",
+    "baseId": "appXo8d2YnZjBOpBR",
+    "tableName": "Learn React Native",
+    "HeroTitle": "Developer resources",
+    "HeroSubtitle": "Find below a curated list of free developer resources to help you build your next project."
+  },
+  "learn-marketing": {
+    "type": "list",
+    "baseId": "appKhNtPeIC8L7zEq",
+    "tableName": "Resources",
+    "HeroTitle": "Marketing resources",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-marketing-fundamentals": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn Marketing Fundamentals",
+    "HeroTitle": "Marketing fundamentals",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-content-marketing": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn Content Marketing",
+    "HeroTitle": "Content marketing",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-social-media-marketing": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn Social Media Marketing",
+    "HeroTitle": "Social media marketing",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-seo": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn SEO",
+    "HeroTitle": "Search engine optimisation",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-growth-hacking": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn Growth Hacking",
+    "HeroTitle": "Growth Hacking",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-affiliate-marketing": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn Affiliate Marketing",
+    "HeroTitle": "Affiliate Marketing",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-email-marketing": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn Email marketing",
+    "HeroTitle": "Email marketing",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-copywriting": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn Copywriting",
+    "HeroTitle": "Copywriting",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "learn-sales": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Learn Sales",
+    "HeroTitle": "sales",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  },
+  "free-marketing-templates": {
+    "type": "page",
+    "baseId": "appy1UWuO4kACb1GC",
+    "tableName": "Free Templates",
+    "HeroTitle": "free templates",
+    "HeroSubtitle": "Find below a curated list of marketing resources."
+  }
+}
